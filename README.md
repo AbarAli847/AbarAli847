@@ -1,18 +1,16 @@
  # 👋 Hello, I'm Abrar Ali!
 
-### Mobile Developer | Web Developer | Software Engineering Graduate
+### Web Developer | Software Engineering Graduate
 
 I am a passionate and motivated Software Engineering graduate with hands-on experience in building modern mobile and web applications using **React Native, Next.js, and MongoDB**.
 
 During my degree, I worked on several academic and personal projects where I learned to design clean UI, write efficient code, and follow agile development practices. I enjoy turning complex problems into simple, intuitive solutions.
 
 I’m currently focused on growing as a full-stack developer and seeking opportunities to contribute to impactful projects in the software industry.
-
 ---
 
 ## 🛠 Tech Stack
-
-### Languages & Frameworks
+ 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,17 +28,14 @@ I’m currently focused on growing as a full-stack developer and seeking opportu
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Backend & DevTools
+ 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Modern Web & Libraries
+![JQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,29 +44,16 @@ I’m currently focused on growing as a full-stack developer and seeking opportu
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Creative & Design
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AbarAli847&show_icons=true&theme=dark&hide_border=true" alt="Abrar's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbarAli847&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-## 🌐 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-
----
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=c5a059&height=100&section=footer" />
 </p>
