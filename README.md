@@ -46,3 +46,13 @@ I’m currently focused on growing as a full-stack developer and seeking opportu
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbarAli847&show_icons=true&theme=dark&hide_border=true" alt="Abrar's GitHub Stats" />
+</p> 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbarAli847&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Abrar's Top Languages" />
+</p>
+
+ 
